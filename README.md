@@ -1,3 +1,3 @@
 # certificates
-All my certificates I earned.
+All my certificates I earned. <br>
 Author - Vaibhav Sharma
